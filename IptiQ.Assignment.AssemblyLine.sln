@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IptiQ.Assignment.AssemblyLine", "IptiQ.Assignment.AssemblyLine\IptiQ.Assignment.AssemblyLine.csproj", "{E64183F6-79B6-437A-89AF-CCBA3BF22510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IptiQ.Assignment.AssemblyLine.Tests", "IptiQ.Assignment.AssemblyLine.Tests\IptiQ.Assignment.AssemblyLine.Tests.csproj", "{A22F8A00-03A1-434A-96C7-D41558BC844A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D3B1B80-9D44-4729-BB76-0D6C22714FA2}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64183F6-79B6-437A-89AF-CCBA3BF22510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64183F6-79B6-437A-89AF-CCBA3BF22510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64183F6-79B6-437A-89AF-CCBA3BF22510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64183F6-79B6-437A-89AF-CCBA3BF22510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22F8A00-03A1-434A-96C7-D41558BC844A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22F8A00-03A1-434A-96C7-D41558BC844A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22F8A00-03A1-434A-96C7-D41558BC844A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22F8A00-03A1-434A-96C7-D41558BC844A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E903A086-2C69-421D-97A4-7C04C80B42EF}
+	EndGlobalSection
+EndGlobal
